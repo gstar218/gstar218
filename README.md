@@ -1,6 +1,7 @@
 ## Welcome
 
 ### 👨‍💻 About Me
+
 - 🔭 Currently working on **Personal Projects & Tech Stack Improvement**
 - 🌱 Learning new technologies & exploring open source
 - 💡 Passionate about coding, development and tech sharing
